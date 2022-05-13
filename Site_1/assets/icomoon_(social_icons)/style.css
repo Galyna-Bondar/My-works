@@ -1,0 +1,54 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 10 version
+*/
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?j7z4ww');
+  src: url('fonts/icomoon.eot?j7z4ww#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?j7z4ww') format('truetype'),
+    url('fonts/icomoon.woff?j7z4ww') format('woff'),
+    url('fonts/icomoon.svg?j7z4ww#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\ea90";
+}
+
+.icon-twitter:before {
+  content: "\ea96";
+}
+
+.icon-youtube:before {
+  content: "\ea9d";
+}
+
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+
+.icon-pinterest2:before {
+  content: "\ead2";
+}

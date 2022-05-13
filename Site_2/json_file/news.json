@@ -1,0 +1,50 @@
+[
+    {
+        "pic":"../assets/images/News/News_1.jpg",          
+        "title":"SEE THE UNMATCHED BEAUTY OF THE GREAT.",
+        "description":"Free directories: perfect for customers that are searching for...",
+        "avatar":"../assets/images/News/News_1_author.jpg",
+        "author":  "ALJA BRUN",
+        "date":"20 Jan 2020"
+    },
+    {
+        "pic":"../assets/images/News/News_2.jpg",          
+        "title":"EFFECTIVE ADVERTISING POINTERS.",
+        "description":"Having a home based business is a wonderful asset to your life...",
+        "avatar":"../assets/images/News/News_2_author.jpg",
+        "author": "DOMINIC FREEMAN",
+        "date":"13 Dec 2019"
+    },
+    {
+        "pic":"../assets/images/News/News_3.jpg",          
+        "title":"HYPNOTIZE YOURSELF INTO THE GHOST.",
+        "description":"There are many things that are important to catalog design...",
+        "avatar":"../assets/images/News/News_3_author.jpg",
+        "author": "ALICE WARD",
+        "date":"30 Nov 2019"
+    },
+    {
+        "pic":"../assets/images/News/News_1.jpg",          
+        "title":"SEE THE UNMATCHED BEAUTY OF THE GREAT.",
+        "description":"Free directories: directories are perfect for customers that are searching for...",
+        "avatar":"../assets/images/News/News_1_author.jpg",
+        "author":  "ALJA BRUN",
+        "date":"20 Jan 2020"
+    },
+    {
+        "pic":"../assets/images/News/News_2.jpg",          
+        "title":"EFFECTIVE ADVERTISING POINTERS.",
+        "description":"Having a home based business is a wonderful asset to your life...",
+        "avatar":"../assets/images/News/News_2_author.jpg",
+        "author": "DOMINIC FREEMAN",
+        "date":"13 Dec 2019"
+    },
+    {
+        "pic":"../assets/images/News/News_3.jpg",          
+        "title":"HYPNOTIZE YOURSELF INTO THE GHOST.",
+        "description":"There are many things that are important to catalog design...",
+        "avatar":"../assets/images/News/News_3_author.jpg",
+        "author": "ALICE WARD",
+        "date":"30 Nov 2019"
+    }
+]

@@ -1,0 +1,7 @@
+﻿User-Agent: *
+
+Host: galyna-bondar.github.io/
+
+Sitemap:https://galyna-bondar.github.io/Exam/sitemap.xml
+
+

@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#panel {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(123, 123, 123, .7);
+    padding: 20px 50px;
+    font-size: 18px;
+    z-index: 100000;
+
+    &.info {
+        background-color: rgb(0, 183, 255, .7);
+    }
+
+    &.success {
+        background-color: rgb(0, 214, 29, .7);
+    }
+
+    &.warning {
+        background-color: rgb(245, 180, 0, .7);
+    }
+
+    &.danger {
+        background-color: rgb(255, 30, 0, .7);
+    }
+
+
+
+
+    button {
+        border: none;
+        cursor: pointer;
+        background-color: transparent;
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        text-align: center;
+        line-height: 20px;
+        color: #fff;
+        font-size: 26px;
+        font-weight: 600;
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+
+        &:hover {
+            color: red;
+        }
+
+    }
+}

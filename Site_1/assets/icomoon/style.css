@@ -1,0 +1,49 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 10 version
+*/
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?djpofd');
+  src: url('fonts/icomoon.eot?djpofd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?djpofd') format('truetype'),
+    url('fonts/icomoon.woff?djpofd') format('woff'),
+    url('fonts/icomoon.svg?djpofd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e900";
+  color: #5474fd;
+}
+
+.icon-like2:before {
+  content: "\e901";
+  color: #00a2ff;
+}
+
+.icon-check:before {
+  content: "\e902";
+  color: #ff6363;
+}
